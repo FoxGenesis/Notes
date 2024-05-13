@@ -1,0 +1,8 @@
+
+.settings/
+target/
+logs/
+plugins/
+config/
+test/
+.pid
